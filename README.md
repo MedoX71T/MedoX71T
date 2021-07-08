@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Dex556
+- 👀 I’m interested in penetration testing
+- 🌱 I’m currently learning Web app security + CTF
+- 💞️ I’m looking to collaborate on FireEye
+- 📫 How to reach me >> bit.ly/2TS39I5
