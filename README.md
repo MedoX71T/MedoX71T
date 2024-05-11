@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Mohamed Abd-Elmoniem</h1>
 <h3 align="center">Source Code Review/Cybersecurity Researcher</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MedoX71T&label=Profile%20views&color=0e75b6&style=flat" alt="MedoX71T" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MedoX71T&label=Profile%20views&color=0e75b6&style=flat" alt="MedoX71T" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MedoX71T&theme=dark_lover" alt="MedoX71T" /></a> </p>
 
@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at **My Repo**
 - 📝 I regularly write articles on **OWASP 10**
 
-<div> <a href="https://twitter.com/GostKiller2" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<div align="center"> <a href="https://twitter.com/GostKiller2" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/icerat6657" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/MedoX71T" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
@@ -55,10 +55,10 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="center">Support:</h3>
 <p><a href="https://ko-fi.com/medox71t"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="medox71t" /></a></p><br><br>
 
-<h3 align="left">Stars</h3>
+<h3 align="center">Stars</h3>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MedoX71T&theme=react" alt="MedoX71T" /></p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
