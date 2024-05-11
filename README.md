@@ -55,10 +55,10 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="center">Support:</h3>
-<p><a href="https://ko-fi.com/medox71t"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="medox71t" /></a></p><br><br>
+<h3 align="left">Support:</h3>
+<p align="center"><a href="https://ko-fi.com/medox71t"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="medox71t" /></a></p><br><br>
 
-<h3 align="center">Stars</h3>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MedoX71T&theme=react" alt="MedoX71T" /></p>
+<h3 align="left">Stars</h3>
+<p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MedoX71T&theme=react" alt="MedoX71T" /></p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
