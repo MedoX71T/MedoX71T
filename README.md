@@ -11,7 +11,8 @@
 
 - 👨‍💻 All of my projects are available at **My Repo**
 - 📝 I regularly write articles on **OWASP 10**
-
+<br>
+<h3 align="center">You can contact me at</h3>
 <p align="center">
 <a href="https://twitter.com/GostKiller2" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="GostKiller2" height="30" width="40" /></a><a href="https://linkedin.com/in/icerat6657" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="icerat6657" height="30" width="40" /></a><a href="https://fb.com/medox71t" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="medox71t" height="30" width="40" /></a></p>
 
