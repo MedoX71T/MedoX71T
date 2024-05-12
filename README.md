@@ -51,7 +51,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="center">My Scorek</h3>
+<h3 align="center">My Score</h3>
 <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MedoX71T&theme=dracula" alt="MedoX71T" /></p>
 <br>
 <p align="center"><a href="https://ko-fi.com/medox71t"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="medox71t" /></a></p>
