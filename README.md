@@ -37,19 +37,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<p align="center">
- 🔭 I’m currently working as **Freelancer**
- <br>
- 👯 I’m looking to collaborate on **Google** 
- <br>
- 🌱 I’m currently learning **Cloud Security** 
- <br>
- 💬 Ask me about **Web Application Security** 
- <br>
- 👨‍💻 All of my projects are available at **My Repo** 
- <br>
- 📝 I regularly write articles on **OWASP 10**
-</p>
+ 
 <h3 align="center">You can Contact me on</h3>
 <p align="center">
 <a href="https://twitter.com/GostKiller2" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="GostKiller2" height="30" width="40" /></a><a href="https://linkedin.com/in/icerat6657" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="icerat6657" height="30" width="40" /></a><a href="https://fb.com/medox71t" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="medox71t" height="30" width="40" /></a></p>
