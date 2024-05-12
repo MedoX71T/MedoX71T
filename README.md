@@ -2,11 +2,11 @@
 <h3 align="center">Source Code Review/Cybersecurity Researcher</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MedoX71T&label=Profile%20views&color=0e75b6&style=flat" alt="MedoX71T" /> </p>
 <div align="center">
- 🔭 I’m currently working as **Freelancer**<br>
- 👯 I’m looking to collaborate on **Google**<br>
- 🌱 I’m currently learning **Cloud Security**<br>
- 💬 Ask me about **Web Application Security**<br>
- 👨‍💻 All of my projects are available at **My Repo**<br>
+ 🔭 I’m currently working as **Freelancer** <br>
+ 👯 I’m looking to collaborate on **Google** <br>
+ 🌱 I’m currently learning **Cloud Security** <br>
+ 💬 Ask me about **Web Application Security** <br>
+ 👨‍💻 All of my projects are available at **My Repo** <br>
  📝 I regularly write articles on **OWASP 10**
 </div>
 <h3 align="center">You can contact me at</h3>
