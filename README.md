@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abd-Elmoniem</h1>
 <h3 align="center">Source Code Review/Cybersecurity Researcher</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MedoX71T&label=Profile%20views&color=0e75b6&style=flat" alt="MedoX71T" /> </p>
-
+<div align="center">
 - 🔭 I’m currently working as **Freelancer**
 - 👯 I’m looking to collaborate on **Google**
 - 🌱 I’m currently learning **Cloud Security**
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at **My Repo**
 - 📝 I regularly write articles on **OWASP 10**
-
+</div>
 <h3 align="center">You can contact me at</h3>
 <p align="center">
 <a href="https://twitter.com/GostKiller2" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="GostKiller2" height="30" width="40" /></a><a href="https://linkedin.com/in/icerat6657" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="icerat6657" height="30" width="40" /></a><a href="https://fb.com/medox71t" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="medox71t" height="30" width="40" /></a></p>
