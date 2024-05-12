@@ -2,7 +2,7 @@
 <h3 align="center">Source Code Review/Cybersecurity Researcher</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MedoX71T&label=Profile%20views&color=0e75b6&style=flat" alt="MedoX71T" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MedoX71T&theme=dark_lover" alt="MedoX71T" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MedoX71T&theme=dracula" alt="MedoX71T" /></a> </p>
 
 - 🔭 I’m currently working as **Freelancer**
 - 👯 I’m looking to collaborate on **Google**
