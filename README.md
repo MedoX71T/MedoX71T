@@ -47,4 +47,4 @@
 <h3 align="center">My Score</h3>
 <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MedoX71T&theme=dracula" alt="MedoX71T" /></p>
 <br>
-<p><a href="https://www.buymeacoffee.com/medox71t"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="medox71t" /></a><a href="https://ko-fi.com/medox71t"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="medox71t" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/medox71t"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="medox71t" /></a><a href="https://ko-fi.com/medox71t"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="medox71t" /></a></p><br><br>
