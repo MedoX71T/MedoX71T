@@ -40,12 +40,11 @@
  
 <h3 align="center">You can Contact me on</h3>
 <p align="center">
-<a href="https://twitter.com/GostKiller2" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="GostKiller2" height="30" width="40" /></a><a href="https://linkedin.com/in/icerat6657" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="icerat6657" height="30" width="40" /></a><a href="https://fb.com/medox71t" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="medox71t" height="30" width="40" /></a></p>
+<a href="https://twitter.com/GostKiller2" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="GostKiller2" height="30" width="40" /></a><a href="https://linkedin.com/in/icerat6657" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="icerat6657" height="30" width="40" /></a><a href="https://fb.com/medox71t" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="medox71t" height="30" width="40" /></a></p><br>
 
 
 
 <h3 align="center">My Score</h3>
 <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MedoX71T&theme=dracula" alt="MedoX71T" /></p>
-<br>
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/medox71t"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="medox71t" /></a><a href="https://ko-fi.com/medox71t"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="medox71t" /></a></p><br><br>
