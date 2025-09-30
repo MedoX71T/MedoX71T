@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abd-Elmoniem</h1>
-<h3 align="center">ADHD</h3>
-<h3 align="center">Source Code Review/Bug Bounty Hunter/Web Application Tester</h3>
+<h3 align="center">Source Code Review / Web Application Tester / Marketing Director / Forex Trader</h3>
+<h3 align="center">Yes I Have ~/ADHD</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MedoX71T&label=Profile%20views&color=0e75b6&style=flat" alt="MedoX71T" /> </p>
 
 <h3 align="center">Languages and Tools</h3>
