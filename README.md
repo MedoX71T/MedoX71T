@@ -30,7 +30,7 @@ While security is my core identity, I'm also well-versed in full-stack developme
 - 🔭 Currently working on: **Open Source Security Projects & Penetration Testing**
 - 🧠 Learning: **Advanced Exploit Development**, **Serverless Architectures**, and **ML for Security**
 - 💬 Ask me about: **Web/App Security**, **Android Software Modification**, and **React**
-- ⚡ Fun fact: I'm an [ADHD](https://www.additudemag.com/slideshows/positives-of-adhd/) person who loves cooking new dishes, studying Japanese (私は日本語を勉強しています), and conquering the world as Tannu Tuva in HOI4!
+- ⚡ Fun fact: I'm an [ADHD](https://www.additudemag.com/slideshows/positives-of-adhd/) person who loves cooking new dishes,私は日本語を勉強しています, and conquering the world as Tannu Tuva in HOI4!
 
 ---
 
