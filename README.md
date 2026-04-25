@@ -54,7 +54,7 @@ While security is my core identity, I'm also well-versed in full-stack developme
   <tr>
     <td align="center" width="33%">
       <h3>🛡️ Security</h3>
-      <img src="https://skillicons.dev/icons?i=linux,kali,android,bash" alt="Security Icons" />
+      <img src="https://skillicons.dev/icons?i=linux,kali,redhat,bash" alt="Security Icons" />
     </td>
     <td align="center" width="33%">
       <h3>💻 Frontend</h3>
