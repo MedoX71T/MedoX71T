@@ -37,6 +37,11 @@ While security is my core identity, I'm also well-versed in full-stack developme
 ## 📝 Latest from my Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Crafting Your Vision: The Roadmap to a Powerful Presence](https://medox71t.netlify.app/projects/crafting-your-vision---the-roadmap-to-a-powerful-presence/)
+- [Guerrilla Marketing: Low-Budget Strategies for Big Impact](https://medox71t.netlify.app/projects/guerrilla-marketing---low-budget-strategies-for-big-impact/)
+- [SQL Injection: An Introduction to the Simplest Code](https://medox71t.netlify.app/projects/sql-injection---an-introduction-to-the-simplest-code/)
+- [The Cyber Framework: A Deep Dive into Defensive System Architecture](https://medox71t.netlify.app/projects/the-cyber-framework---a-deep-dive-into-defensive-system-architecture/)
+- [The Power of Marketing: Why It&#39;s Essential for Business Growth](https://medox71t.netlify.app/projects/the-power-of-marketing---why-its-essential-for-business-growth/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
