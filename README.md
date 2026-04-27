@@ -40,8 +40,8 @@ While security is my core identity, I'm also well-versed in full-stack developme
 - [AI-Driven Vulnerability Discovery: The Future of Autonomous Security Research](https://medox71t.netlify.app/projects/ai-driven-vulnerability-discovery-and-the-future-of-security-research/)
 - [Cyber News: CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://medox71t.netlify.app/projects/cisa-adds-4-exploited-flaws-to-kev-sets-may-2026-federal-deadline/)
 - [Infinix Note 11 &lpar;X663&rpar; GSI Patch &amp; Bootloader Unlocking](https://medox71t.netlify.app/projects/infinix-note-11-x663-gsi-patch/)
+- [Cyber News: Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://medox71t.netlify.app/projects/researchers-uncover-pre-stuxnet-fast16-malware-targeting-engineering-software/)
 - [Cyber News: 26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases](https://medox71t.netlify.app/projects/26-fakewallet-apps-found-on-apple-app-store-targeting-crypto-seed-phrases/)
-- [Cyber News: Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine](https://medox71t.netlify.app/projects/bridging-the-ai-agent-authority-gap-continuous-observability-as-the-decision-engine/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
