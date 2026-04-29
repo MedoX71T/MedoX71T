@@ -37,11 +37,11 @@ While security is my core identity, I'm also well-versed in full-stack developme
 ## 📝 Latest from my Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyber News: Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks](https://medox71t.netlify.app/projects/chinese-silk-typhoon-hacker-extradited-to-us-over-covid-research-cyberattacks/)
+- [Cyber News: Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202](https://medox71t.netlify.app/projects/microsoft-confirms-active-exploitation-of-windows-shell-cve-2026-32202/)
+- [Cyber News: Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover](https://medox71t.netlify.app/projects/microsoft-patches-entra-id-role-flaw-that-enabled-service-principal-takeover/)
+- [Cyber News: Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack](https://medox71t.netlify.app/projects/checkmarx-confirms-github-repository-data-posted-on-dark-web-after-march-23-attack/)
 - [Cyber News: Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud](https://medox71t.netlify.app/projects/fake-captcha-irsf-scam-and-120-keitaro-campaigns-drive-global-sms-crypto-fraud/)
-- [AI-Driven Vulnerability Discovery: The Future of Autonomous Security Research](https://medox71t.netlify.app/projects/ai-driven-vulnerability-discovery-and-the-future-of-security-research/)
-- [Cyber News: CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://medox71t.netlify.app/projects/cisa-adds-4-exploited-flaws-to-kev-sets-may-2026-federal-deadline/)
-- [Infinix Note 11 &lpar;X663&rpar; GSI Patch &amp; Bootloader Unlocking](https://medox71t.netlify.app/projects/infinix-note-11-x663-gsi-patch/)
-- [Cyber News: Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://medox71t.netlify.app/projects/researchers-uncover-pre-stuxnet-fast16-malware-targeting-engineering-software/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
