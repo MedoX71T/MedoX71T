@@ -37,11 +37,11 @@ While security is my core identity, I'm also well-versed in full-stack developme
 ## 📝 Latest from my Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyber News: CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV](https://medox71t.netlify.app/projects/cisa-adds-actively-exploited-connectwise-and-windows-flaws-to-kev/)
+- [Cyber News: LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure](https://medox71t.netlify.app/projects/litellm-cve-2026-42208-sql-injection-exploited-within-36-hours-of-disclosure/)
+- [Cyber News: Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign](https://medox71t.netlify.app/projects/brazilian-lofygang-resurfaces-after-three-years-with-minecraft-lofystealer-campaign/)
 - [Cyber News: Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks](https://medox71t.netlify.app/projects/chinese-silk-typhoon-hacker-extradited-to-us-over-covid-research-cyberattacks/)
 - [Cyber News: Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202](https://medox71t.netlify.app/projects/microsoft-confirms-active-exploitation-of-windows-shell-cve-2026-32202/)
-- [Cyber News: Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover](https://medox71t.netlify.app/projects/microsoft-patches-entra-id-role-flaw-that-enabled-service-principal-takeover/)
-- [Cyber News: Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack](https://medox71t.netlify.app/projects/checkmarx-confirms-github-repository-data-posted-on-dark-web-after-march-23-attack/)
-- [Cyber News: Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud](https://medox71t.netlify.app/projects/fake-captcha-irsf-scam-and-120-keitaro-campaigns-drive-global-sms-crypto-fraud/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
