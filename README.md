@@ -37,11 +37,11 @@ While security is my core identity, I'm also well-versed in full-stack developme
 ## 📝 Latest from my Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyber News: Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution](https://medox71t.netlify.app/projects/google-fixes-cvss-10-gemini-cli-ci-rce-and-cursor-flaws-enable-code-execution/)
+- [Cyber News: New Linux &#39;Copy Fail&#39; Vulnerability Enables Root Access on Major Distributions](https://medox71t.netlify.app/projects/new-linux-copy-fail-vulnerability-enables-root-access-on-major-distributions/)
 - [Cyber News: CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV](https://medox71t.netlify.app/projects/cisa-adds-actively-exploited-connectwise-and-windows-flaws-to-kev/)
 - [Cyber News: LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure](https://medox71t.netlify.app/projects/litellm-cve-2026-42208-sql-injection-exploited-within-36-hours-of-disclosure/)
-- [Cyber News: Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign](https://medox71t.netlify.app/projects/brazilian-lofygang-resurfaces-after-three-years-with-minecraft-lofystealer-campaign/)
-- [Cyber News: Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks](https://medox71t.netlify.app/projects/chinese-silk-typhoon-hacker-extradited-to-us-over-covid-research-cyberattacks/)
-- [Cyber News: Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202](https://medox71t.netlify.app/projects/microsoft-confirms-active-exploitation-of-windows-shell-cve-2026-32202/)
+- [Cyber News: New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://medox71t.netlify.app/projects/new-wave-of-dprk-attacks-uses-ai-inserted-npm-malware-fake-firms-and-rats/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
