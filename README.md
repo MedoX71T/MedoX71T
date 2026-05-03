@@ -37,11 +37,11 @@ While security is my core identity, I'm also well-versed in full-stack developme
 ## 📝 Latest from my Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyber News: Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://medox71t.netlify.app/projects/trellix-confirms-source-code-breach-with-unauthorized-repository-access/)
+- [Cyber News: 30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://medox71t.netlify.app/projects/30000-facebook-accounts-hacked-via-google-appsheet-phishing-campaign/)
+- [Cyber News: China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://medox71t.netlify.app/projects/china-linked-hackers-target-asian-governments-nato-state-journalists-and-activists/)
+- [Cyber News: Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://medox71t.netlify.app/projects/cybercrime-groups-using-vishing-and-sso-abuse-in-rapid-saas-extortion-attacks/)
 - [Cyber News: Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://medox71t.netlify.app/projects/poisoned-ruby-gems-and-go-modules-exploit-ci-pipelines-for-credential-theft/)
-- [Cyber News: EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades](https://medox71t.netlify.app/projects/etherrat-distribution-spoofing-administrative-tools-via-github-facades/)
-- [Cyber News: Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution](https://medox71t.netlify.app/projects/google-fixes-cvss-10-gemini-cli-ci-rce-and-cursor-flaws-enable-code-execution/)
-- [Cyber News: New Linux &#39;Copy Fail&#39; Vulnerability Enables Root Access on Major Distributions](https://medox71t.netlify.app/projects/new-linux-copy-fail-vulnerability-enables-root-access-on-major-distributions/)
-- [Cyber News: New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://medox71t.netlify.app/projects/new-python-backdoor-uses-tunneling-service-to-steal-browser-and-cloud-credentials/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
