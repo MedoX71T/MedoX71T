@@ -37,11 +37,11 @@ While security is my core identity, I'm also well-versed in full-stack developme
 ## 📝 Latest from my Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyber News: Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M](https://medox71t.netlify.app/projects/global-crackdown-arrests-276-shuts-9-crypto-scam-centers-seizes-701m/)
 - [Cyber News: CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://medox71t.netlify.app/projects/cisa-adds-actively-exploited-linux-root-access-bug-cve-2026-31431-to-kev/)
 - [Cyber News: Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://medox71t.netlify.app/projects/trellix-confirms-source-code-breach-with-unauthorized-repository-access/)
 - [Cyber News: 30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://medox71t.netlify.app/projects/30000-facebook-accounts-hacked-via-google-appsheet-phishing-campaign/)
 - [Cyber News: China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://medox71t.netlify.app/projects/china-linked-hackers-target-asian-governments-nato-state-journalists-and-activists/)
-- [Cyber News: Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://medox71t.netlify.app/projects/cybercrime-groups-using-vishing-and-sso-abuse-in-rapid-saas-extortion-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
