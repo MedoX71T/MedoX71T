@@ -37,11 +37,11 @@ While security is my core identity, I'm also well-versed in full-stack developme
 ## 📝 Latest from my Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyber News: Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries](https://medox71t.netlify.app/projects/microsoft-details-phishing-campaign-targeting-35000-users-across-26-countries/)
+- [Cyber News: ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows](https://medox71t.netlify.app/projects/scarcruft-hacks-gaming-platform-to-deploy-birdcall-malware-on-android-and-windows/)
+- [Cyber News: Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API](https://medox71t.netlify.app/projects/weaver-e-cology-rce-flaw-cve-2026-22679-actively-exploited-via-debug-api/)
 - [Cyber News: Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M](https://medox71t.netlify.app/projects/global-crackdown-arrests-276-shuts-9-crypto-scam-centers-seizes-701m/)
-- [Cyber News: CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://medox71t.netlify.app/projects/cisa-adds-actively-exploited-linux-root-access-bug-cve-2026-31431-to-kev/)
-- [Cyber News: Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://medox71t.netlify.app/projects/trellix-confirms-source-code-breach-with-unauthorized-repository-access/)
-- [Cyber News: 30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://medox71t.netlify.app/projects/30000-facebook-accounts-hacked-via-google-appsheet-phishing-campaign/)
-- [Cyber News: China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://medox71t.netlify.app/projects/china-linked-hackers-target-asian-governments-nato-state-journalists-and-activists/)
+- [Cyber News: Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools](https://medox71t.netlify.app/projects/phishing-campaign-hits-80-orgs-using-simplehelp-and-screenconnect-rmm-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
