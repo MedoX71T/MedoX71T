@@ -37,11 +37,11 @@ While security is my core identity, I'm also well-versed in full-stack developme
 ## 📝 Latest from my Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyber News: Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries](https://medox71t.netlify.app/projects/microsoft-details-phishing-campaign-targeting-35000-users-across-26-countries/)
-- [Cyber News: ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows](https://medox71t.netlify.app/projects/scarcruft-hacks-gaming-platform-to-deploy-birdcall-malware-on-android-and-windows/)
-- [Cyber News: Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API](https://medox71t.netlify.app/projects/weaver-e-cology-rce-flaw-cve-2026-22679-actively-exploited-via-debug-api/)
-- [Cyber News: Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M](https://medox71t.netlify.app/projects/global-crackdown-arrests-276-shuts-9-crypto-scam-centers-seizes-701m/)
-- [Cyber News: Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools](https://medox71t.netlify.app/projects/phishing-campaign-hits-80-orgs-using-simplehelp-and-screenconnect-rmm-tools/)
+- [Cyber News: Google&#39;s Android Apps Get Public Verification to Stop Supply Chain Attacks](https://medox71t.netlify.app/projects/googles-android-apps-get-public-verification-to-stop-supply-chain-attacks/)
+- [Cyber News: Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution](https://medox71t.netlify.app/projects/palo-alto-pan-os-flaw-under-active-exploitation-enables-remote-code-execution/)
+- [Cyber News: Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs](https://medox71t.netlify.app/projects/windows-phone-link-exploited-by-cloudz-rat-to-steal-credentials-and-otps/)
+- [Cyber News: Critical Apache HTTP/2 Flaw &lpar;CVE-2026-23918&rpar; Enables DoS and Potential RCE](https://medox71t.netlify.app/projects/critical-apache-http2-flaw-cve-2026-23918-enables-dos-and-potential-rce/)
+- [Cyber News: DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware](https://medox71t.netlify.app/projects/daemon-tools-supply-chain-attack-compromises-official-installers-with-malware/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
