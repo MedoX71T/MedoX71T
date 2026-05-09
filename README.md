@@ -37,11 +37,11 @@ While security is my core identity, I'm also well-versed in full-stack developme
 ## 📝 Latest from my Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Cyber News: Google&#39;s Android Apps Get Public Verification to Stop Supply Chain Attacks](https://medox71t.netlify.app/projects/googles-android-apps-get-public-verification-to-stop-supply-chain-attacks/)
-- [Cyber News: Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution](https://medox71t.netlify.app/projects/palo-alto-pan-os-flaw-under-active-exploitation-enables-remote-code-execution/)
-- [Cyber News: Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs](https://medox71t.netlify.app/projects/windows-phone-link-exploited-by-cloudz-rat-to-steal-credentials-and-otps/)
-- [Cyber News: Critical Apache HTTP/2 Flaw &lpar;CVE-2026-23918&rpar; Enables DoS and Potential RCE](https://medox71t.netlify.app/projects/critical-apache-http2-flaw-cve-2026-23918-enables-dos-and-potential-rce/)
-- [Cyber News: DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware](https://medox71t.netlify.app/projects/daemon-tools-supply-chain-attack-compromises-official-installers-with-malware/)
+- [Cyber News: Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions](https://medox71t.netlify.app/projects/linux-kernel-dirty-frag-lpe-exploit-enables-root-access-across-major-distributions/)
+- [Cyber News: Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access](https://medox71t.netlify.app/projects/ivanti-epmm-cve-2026-6973-rce-under-active-exploitation-grants-admin-level-access/)
+- [Cyber News: Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks](https://medox71t.netlify.app/projects/mirai-based-xlabs_v1-botnet-exploits-adb-to-hijack-iot-devices-for-ddos-attacks/)
+- [Cyber News: One Click, Total Shutdown: The &quot;Patient Zero&quot; Webinar on Killing Stealth Breaches](https://medox71t.netlify.app/projects/one-click-total-shutdown-the-patient-zero-webinar-on-killing-stealth-breaches/)
+- [Cyber News: PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage](https://medox71t.netlify.app/projects/pan-os-rce-exploit-under-active-use-enabling-root-access-and-espionage/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
