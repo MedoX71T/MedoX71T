@@ -37,11 +37,11 @@ While security is my core identity, I'm also well-versed in full-stack developme
 ## 📝 Latest from my Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Cyber News: cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now](https://medox71t.netlify.app/projects/cpanel-whm-release-fixes-for-three-new-vulnerabilities--patch-now/)
+- [Cyber News: Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads](https://medox71t.netlify.app/projects/fake-call-history-apps-stole-payments-from-users-after-73-million-play-store-downloads/)
 - [Cyber News: Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions](https://medox71t.netlify.app/projects/linux-kernel-dirty-frag-lpe-exploit-enables-root-access-across-major-distributions/)
-- [Cyber News: Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access](https://medox71t.netlify.app/projects/ivanti-epmm-cve-2026-6973-rce-under-active-exploitation-grants-admin-level-access/)
-- [Cyber News: Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks](https://medox71t.netlify.app/projects/mirai-based-xlabs_v1-botnet-exploits-adb-to-hijack-iot-devices-for-ddos-attacks/)
-- [Cyber News: One Click, Total Shutdown: The &quot;Patient Zero&quot; Webinar on Killing Stealth Breaches](https://medox71t.netlify.app/projects/one-click-total-shutdown-the-patient-zero-webinar-on-killing-stealth-breaches/)
-- [Cyber News: PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage](https://medox71t.netlify.app/projects/pan-os-rce-exploit-under-active-use-enabling-root-access-and-espionage/)
+- [Cyber News: Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise](https://medox71t.netlify.app/projects/quasar-linux-rat-steals-developer-credentials-for-software-supply-chain-compromise/)
+- [Cyber News: TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms](https://medox71t.netlify.app/projects/tclbanker-banking-trojan-targets-financial-platforms-via-whatsapp-and-outlook-worms/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
